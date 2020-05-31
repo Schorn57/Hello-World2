@@ -1,3 +1,3 @@
 # Hello-World2
 This is a practice exercise
-I am takingCS50throughEdx
+I am taking CS50 through Edx
